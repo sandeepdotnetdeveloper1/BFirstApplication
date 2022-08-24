@@ -43,7 +43,7 @@
 ` /src/contracts/DTube.sol`
 
 ## Development
-Open ganache for  personal blockchain development. Don't forget to add private key in MetaMask.
+Open ganache for  personal blockchain developmentnew. Don't forget to add private key in MetaMask.
 
 ```
 ganache-cli
